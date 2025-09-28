@@ -20,6 +20,3 @@ npm start
 - Indigo & gray palette for professionalism
 - Rounded cards with shadows
 - Mobile-first layout
-
-## 📅 Submission
-- Deadline: 06 October 2025
